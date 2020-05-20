@@ -24,4 +24,4 @@ github_username:  pigghost
 
 # Build settings
 markdown: redcarpet
-theme: minima
+theme: jekyll-theme-cayman
